@@ -1,8 +1,8 @@
 # ✨ 2024년 삼육대학교 자바스크립트 기초 ✨
 ## 😁 동영상 강의 참조 자료
 
-### 1. handsout(pdf) ❤️
+### ❤️ handsout(pdf) ❤️
 
 
 
-### 2. source code ❤️
+### ❤️ source code ❤️
