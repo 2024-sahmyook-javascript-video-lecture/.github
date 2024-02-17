@@ -14,7 +14,7 @@
 이름 : 김진호 <br>
 소속 : 삼육대학교 SW 중심대학 <br>
 직책 : 산업체 겸직교수 <br>
-이메일주소 : [tiger@ohgiraffers.com](tiger@ohgiraffers.com)
+이메일주소 : [tiger@helloworldlabs.kr](tiger@helloworldlabs.kr)
 
 ## 😁 동영상 강의 참조 자료
 
