@@ -23,3 +23,4 @@
 
 
 ### ❤️ source code ❤️
+[수업용 소스코드 바로가기](https://github.com/2024-sahmyook-javascript-video-lecture/lecture-source)
